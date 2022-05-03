@@ -9,6 +9,7 @@ HTML -
 
 기본적인 틀은 
 
+/*
 <!DOCTYPE HTML>
 <html>
     <head>
@@ -17,6 +18,7 @@ HTML -
     <body>        
     </body>
 </html>
+*/
 
 이렇게 구성되며, 다른 것에 비해서 문법에 대한 오류가 관대하다고 한다.
 
