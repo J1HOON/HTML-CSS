@@ -10,8 +10,8 @@ HTML -
 기본적인 틀은 
 
 
---<!DOCTYPE HTML>
-<html>
+//<!DOCTYPE HTML>
+//<html>
     <head>
         <meta charset="utf-8">
     </head>
