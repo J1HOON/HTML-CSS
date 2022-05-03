@@ -38,7 +38,7 @@
   CODING
  (/SPAN)
  
- 
+ (IMG = SRC="주소" WIDTH="크기를 맞추는 것")  
  
  
  CSS -
