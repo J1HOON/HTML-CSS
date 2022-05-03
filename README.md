@@ -10,6 +10,7 @@ HTML -
 기본적인 틀은 
 
 
+
 <!DOCTYPE HTML>
 <html>
     <head>
@@ -26,9 +27,16 @@ HTML -
  
  <> - 태그라고 함.
  
-<STRONG> </STRONG> - 글자를 진하게 만들어줌.
-<U> </U>           - 글자 아래에 밑줄을 만들어줌.
+<STRONG> 함지훈 </STRONG> - 글자를 진하게 만들어줌. (STRONG)
+<U> 함지훈 </U>           - 글자 아래에 밑줄을 만들어줌. (U)
  
+ <H1> THIS IS S</H1>
+ <H2> THIS IS S</H2>
+ <H3> THIS IS S</H3>
+ <H4> THIS IS S</H4>
+ <H5> THIS IS S</H5>
+ <H6> THIS IS S</H6>
+ - 글자의 크기를 조정 (H)
  
  
  CSS -
